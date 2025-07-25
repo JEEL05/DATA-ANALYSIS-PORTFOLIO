@@ -25,8 +25,7 @@ This analysis focuses on identifying sales trends, promotion impact, and top-sel
 
 
 
-How do promotions impact average units sold?
-**
+## How do promotions impact average units sold?**
 **Answer:**  
 - **Promotions significantly increase average sales.**  
 - Average units sold during promotions is **almost double** compared to non-promo periods.  
